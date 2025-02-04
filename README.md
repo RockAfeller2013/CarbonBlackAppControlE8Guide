@@ -8,4 +8,4 @@ Reference URL: https://learn.microsoft.com/en-us/windows/security/application-se
 - ms_recommended_blocks_nov2023.rules.zip: rules contains all Microsoft's recommended block rules. 
 - ms_recommended_blocks_nov2023_msbuild.rules.zip: rules contains all Microsoft's recommended block rules except for msbuild.exe and msbuild.dll.
 - ms_recommended_blocks_nov2023_exclusions.rules.zip: rules contains all Microsoft's recommended block rules with the following files omitted: msbuild.exe, msbuild.dll, bginfo.exe, wscript.exe, cscript.exe. 
-
+More info here https://community.broadcom.com/symantecenterprise/discussion/app-control-microsoft-recommended-block-rules (Community access required.)
