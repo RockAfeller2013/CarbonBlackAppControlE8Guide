@@ -1,13 +1,11 @@
-1) nov2023 rules contains all Microsoft's recommended block rules. 
+Folder: Microsoft Recommended Block Rules, contains the following;
 
-ms_recommended_blocks_nov2023.rules
+The Essential 8 recommendations were updated in November 2023. Microsoft also update their recommended application block rules over time. I have created updated rules for App Control based off version 10.1.0.2 of Microsoft's Recommended Block Rules. 
 
-2) nov2023_msbuild rules contains all Microsoft's recommended block rules except for msbuild.exe and msbuild.dll.
+Reference URL: https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
 
-ms_recommended_blocks_nov2023_msbuild.rules
 
-3) nov2023_exclusions rules contains all Microsoft's recommended block rules with the following files omitted: msbuild.exe, msbuild.dll, bginfo.exe, wscript.exe, cscript.exe. 
+- ms_recommended_blocks_nov2023.rules nov2023, rules contains all Microsoft's recommended block rules. 
+- ms_recommended_blocks_nov2023_msbuild.rules, nov2023_msbuild rules contains all Microsoft's recommended block rules except for msbuild.exe and msbuild.dll.
+- ms_recommended_blocks_nov2023_exclusions.rules, nov2023_exclusions rules contains all Microsoft's recommended block rules with the following files omitted: msbuild.exe, msbuild.dll, bginfo.exe, wscript.exe, cscript.exe. 
 
-ms_recommended_blocks_nov2023_exclusions.rules
-
-All three versions are attached to this post and can be imported into App Control. 
