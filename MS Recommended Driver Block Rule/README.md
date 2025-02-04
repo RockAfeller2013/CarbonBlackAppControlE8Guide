@@ -19,4 +19,4 @@ You will need to provide the App Control server URI and an API Token that has su
 
 NOTE: This script only creates new File Rules, it does not modify existing File Rules or delete File Rules.  If you import an existing hash you may receive an error.
 
-This script is provided as is and does not include support from VMware or its employees.
+This script is provided as is and does not include support from Carbon Black or its employees.
