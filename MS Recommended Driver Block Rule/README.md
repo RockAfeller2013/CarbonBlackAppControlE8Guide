@@ -1,3 +1,9 @@
+#Microsoft recommended driver block rules
+
+Added another CSV to that github repo that contains the most recent version of the recommended driver block rules (10.0.25965.0).
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-driver-block-rules
+
 # AppControl_scripts
 
 This repo contains scripts that leverage the Carbon Black App Control API to perform specific tasks.
