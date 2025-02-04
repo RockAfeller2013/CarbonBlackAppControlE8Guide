@@ -1,6 +1,6 @@
 # AppControl_scripts
 
-This repo contains scripts that leverage the VMware App Control API to perform specific tasks.
+This repo contains scripts that leverage the Carbon Black App Control API to perform specific tasks.
 
 # AppCHashImport.ps1
 This script will allow you to import a CSV of hashes or file names to the App Control server and define if those hashes/file names are to be approved or banned.
