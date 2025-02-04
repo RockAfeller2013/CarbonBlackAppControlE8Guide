@@ -5,7 +5,7 @@ The Essential 8 recommendations were updated in November 2023. Microsoft also up
 Reference URL: https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
 
 
-- ms_recommended_blocks_nov2023.rules nov2023, rules contains all Microsoft's recommended block rules. 
-- ms_recommended_blocks_nov2023_msbuild.rules, nov2023_msbuild rules contains all Microsoft's recommended block rules except for msbuild.exe and msbuild.dll.
-- ms_recommended_blocks_nov2023_exclusions.rules, nov2023_exclusions rules contains all Microsoft's recommended block rules with the following files omitted: msbuild.exe, msbuild.dll, bginfo.exe, wscript.exe, cscript.exe. 
+- ms_recommended_blocks_nov2023.rules.zip: rules contains all Microsoft's recommended block rules. 
+- ms_recommended_blocks_nov2023_msbuild.rules.zip: rules contains all Microsoft's recommended block rules except for msbuild.exe and msbuild.dll.
+- ms_recommended_blocks_nov2023_exclusions.rules.zip: rules contains all Microsoft's recommended block rules with the following files omitted: msbuild.exe, msbuild.dll, bginfo.exe, wscript.exe, cscript.exe. 
 
