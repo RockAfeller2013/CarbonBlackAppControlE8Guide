@@ -1,6 +1,6 @@
-Folder: Microsoft Recommended Block Rules, contains the following;
+# Microsoft Recommended Block Rules, contains the following;
 
-The Essential 8 recommendations were updated in November 2023. Microsoft also update their recommended application block rules over time. I have created updated rules for App Control based off version 10.1.0.2 of Microsoft's Recommended Block Rules.
+The Essential 8 recommendations were updated in November 2023. Microsoft also update their recommended application block rules over time.  App Control block rules of Microsoft's Recommended Block Rules.
 
 Reference URL: https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
 
