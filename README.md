@@ -7,8 +7,8 @@ As part of the ASD ACSC Essential 8 for Application Control, the following two r
 
 The correspondiong folders contain supporting information to configure Carbon Black App Control to adhere to the above two requirements. 
 
-- MS Recommended Driver Block Rule:  Contains script to import the drive block list hashes into Carbon Black App Control
-- Microsoft Recommended Block Rules: Contains Carbon Black App Control rules for Microsoft recommended Application Block Rules. 
+- /MS Recommended Driver Block Rule:  Contains script to import the drive block list hashes into Carbon Black App Control
+- /Microsoft Recommended Block Rules: Contains Carbon Black App Control rules for Microsoft recommended Application Block Rules. 
 
 Please review the corresponding Carbon Black App Control Configuration Guide for implemenation details. 
 
